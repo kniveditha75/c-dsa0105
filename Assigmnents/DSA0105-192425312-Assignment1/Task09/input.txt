@@ -1,0 +1,1 @@
+No interactive input required (runs 12 automated boundary/invalid tests + 5-trip batch).

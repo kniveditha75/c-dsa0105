@@ -1,0 +1,5 @@
+=== TASK 1: OOP DOMAIN MODEL DEMONSTRATION ===
+[APPROVED] Card NM-1001 | Fare: Rs 36.00 | Remaining: Rs 64.00
+[DENIED]   Card NM-1001 | Required Fare: Rs 20.00 | Balance: Rs 64.00 (Min Rs 50.00 post-trip rule)
+[DENIED]   Card NM-2002 | Required Fare: Rs 27.00 | Balance: Rs 75.00 (Min Rs 50.00 post-trip rule)
+[APPROVED] Card NM-2002 | Fare: Rs 27.00 | Remaining: Rs 58.00

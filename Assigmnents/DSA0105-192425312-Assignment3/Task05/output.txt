@@ -1,0 +1,7 @@
+=== Q5: PREDICT THE OUTPUT (COUNTER) ===
+5 7 7
+
+=== Q5: TIME ROLL-OVER & PLAYLIST SUBSCRIPT ===
+Before ++t: 0:59:59 -> After ++t: 1:00:00
+pl[1] = Track 2
+Caught expected bounds exception: Playlist index out of bounds

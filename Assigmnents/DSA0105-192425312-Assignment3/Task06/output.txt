@@ -1,0 +1,3 @@
+=== Q6: SMS GATEWAY TEXT CLASS & OPERATOR RULES ===
+Concatenated SMS: Hello, SMS Gateway!
+Equality check  : true

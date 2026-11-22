@@ -1,0 +1,3 @@
+=== TASK 2: PREDICT THE OUTPUT SNIPPET ===
+Person Student Staff TA 
+sizeof(TeachingAssistant) with virtual base: 176 bytes

@@ -1,0 +1,20 @@
+=== TASK 3: DATA TYPES, RANGES & PRECISION ANALYSIS ===
+
+--- sizeof() on this system ---
+bool      : 1 byte
+char      : 1 byte
+unsigned  : 4 bytes (max: 4294967295)
+int       : 4 bytes (max: 2147483647)
+long long : 8 bytes (max: 9223372036854775807)
+float     : 4 bytes
+double    : 8 bytes
+
+--- Overflow Check (3,000,000 journeys @ Rs 36.00) ---
+Total paise needed : 10800000000 paise (Rs 108000000)
+INT_MAX            : 2147483647 paise -> OVERFLOWS 32-bit int!
+LLONG_MAX          : 9223372036854775807 paise -> Fits safely in long long
+
+--- Floating-Point Drift Demonstration (3,000,000 trips @ Rs 19.99) ---
+Exact integer-paise total : Rs 59970000.000000
+Accumulated double total  : Rs 59970000.001544
+Accumulated error         : Rs 0.001544

@@ -1,0 +1,3 @@
+=== TASK 11: FINAL RECOMMENDED DESIGN VERIFICATION ===
+Tap 1 (Outer, 09:00 Peak) -> Charged: 3600 paise | Remaining: 6400 paise
+Tap 2 (Middle, 14:00)     -> Blocked safely (Balance 6400 paise protected)

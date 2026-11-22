@@ -1,0 +1,8 @@
+=== TASK 7: PROCEDURAL VS OBJECT-ORIENTED COMPARISON ===
+
+[Procedural] Initial: 8000 paise | Trip fare: 3600
+[Procedural] Deduct result: false | Balance: 8000
+
+[OOP SmartCard] Initial: 8000 paise | Trip fare: 3600
+[OOP SmartCard] Deduct result: false | Balance: 8000
+[OOP SmartCard] Trip 2 fare: 2000 | Deduct result: true | Balance: 6000

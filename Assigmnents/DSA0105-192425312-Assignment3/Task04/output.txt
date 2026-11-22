@@ -1,0 +1,5 @@
+=== Q4: MONEY ARITHMETIC & STREAM OPERATORS ===
+Rs 200.00
+true
+Carry test (0.75 + 0.50): Rs 1.25
+1,000,000 x Rs 0.01 exact total: Rs 10000.00

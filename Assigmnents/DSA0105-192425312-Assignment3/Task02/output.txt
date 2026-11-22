@@ -1,0 +1,2 @@
+=== Q2: DEEP COPY & RULE OF THREE VERIFICATION ===
+Ibuprofen ORS | Paracetamol Cetirizine | Paracetamol ORS

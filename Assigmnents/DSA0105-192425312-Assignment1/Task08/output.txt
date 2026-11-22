@@ -1,0 +1,11 @@
+=== TASK 8: SAFE GATE I/O & FORMATTED REPORT ===
+Enter number of journeys (1-5):   [Error] Invalid non-numeric input! Clearing buffer...
+Enter number of journeys (1-5): 
+-----------------------------------------------------------------
+Trip  Zone      Hour    Fare          Status      Balance
+-----------------------------------------------------------------
+Journey Zone (0=Inner, 1=Middle, 2=Outer):   [Error] Value out of range [0..2]. Try again.
+Journey Zone (0=Inner, 1=Middle, 2=Outer): Entry Hour (0-23): 1     Outer     08:00   Rs 36  .00   APPROVED    Rs 84  .00
+Journey Zone (0=Inner, 1=Middle, 2=Outer): Entry Hour (0-23):   [Error] Invalid non-numeric input! Clearing buffer...
+Entry Hour (0-23): 2     Middle    14:00   Rs 20  .00   APPROVED    Rs 64  .00
+-----------------------------------------------------------------

@@ -1,0 +1,1 @@
+No interactive input required (verifies Airport zone, non-stacking weekend discount, and 2-zone MonthlyPass).

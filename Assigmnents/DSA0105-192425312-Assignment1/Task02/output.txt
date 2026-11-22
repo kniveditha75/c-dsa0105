@@ -1,0 +1,4 @@
+=== TASK 2: CONSTANTS & ENUM CLASS VERIFICATION ===
+Inner    | Off-Peak: Rs 10.00 | Peak: Rs 12.00 | Student Peak: Rs 9.00
+Middle   | Off-Peak: Rs 20.00 | Peak: Rs 24.00 | Student Peak: Rs 18.00
+Outer    | Off-Peak: Rs 30.00 | Peak: Rs 36.00 | Student Peak: Rs 27.00

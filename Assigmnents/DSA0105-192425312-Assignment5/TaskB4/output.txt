@@ -1,0 +1,3 @@
+=== TASK B4: PRACTICAL EXTENSION DEMONSTRATION ===
+Emergency Vikram: Rs 11000.00
+All emergency extensions verified with zero modification to existing classes.

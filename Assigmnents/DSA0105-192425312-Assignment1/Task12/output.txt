@@ -1,0 +1,9 @@
+=== TASK 12: DAY-4 DESIGN CHALLENGE VERIFICATION ===
+
+[APPROVED]  Card NM-8001 | Fare: Rs 72.00 | Balance: Rs 78.00
+[DENIED]    Card NM-8001 | Fare: Rs 54.00 | Balance: Rs 78.00
+[APPROVED]  Card NM-8001 | Fare: Rs 27.00 | Balance: Rs 51.00
+
+[PASS-FREE] Card NM-9002 | Zone covered by Monthly Pass | Fare: Rs 0.00 | Balance: Rs 60.00
+[PASS-FREE] Card NM-9002 | Zone covered by Monthly Pass | Fare: Rs 0.00 | Balance: Rs 60.00
+[DENIED]    Card NM-9002 | Fare: Rs 30.00 | Balance: Rs 60.00

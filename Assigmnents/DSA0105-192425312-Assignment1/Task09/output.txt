@@ -1,0 +1,21 @@
+=== TASK 9: COMPLETE FARE LOGIC & TEST SUITE ===
+
+[PASS] 1. Inner Off-Peak Regular          | Exp Fare=1000 Act Fare=1000 | EndBal=9000
+[PASS] 2. Middle Peak Regular             | Exp Fare=2400 Act Fare=2400 | EndBal=7600
+[PASS] 3. Outer Peak Student (25% off)    | Exp Fare=2700 Act Fare=2700 | EndBal=7300
+[PASS] 4. Boundary 08:00 (Peak start)     | Exp Fare=1200 Act Fare=1200 | EndBal=8800
+[PASS] 5. Boundary 10:00 (Peak end)       | Exp Fare=1000 Act Fare=1000 | EndBal=9000
+[PASS] 6. Boundary 17:00 (Eve start)      | Exp Fare=2400 Act Fare=2400 | EndBal=7600
+[PASS] 7. Boundary 20:00 (Eve end)        | Exp Fare=2000 Act Fare=2000 | EndBal=8000
+[PASS] 8. Exact Rs 50 residual bal        | Exp Fare=1000 Act Fare=1000 | EndBal=5000
+[PASS] 9. Rs 49.99 residual (Denied)      | Exp Fare=1000 Act Fare=1000 | EndBal=5999
+[PASS] 10. Invalid Zone (-1)              | Exp Fare=0    Act Fare=0    | EndBal=10000
+[PASS] 11. Invalid Hour (25)              | Exp Fare=0    Act Fare=0    | EndBal=10000
+[PASS] 12. Negative recharge rejected (Balance unchanged: 5000)
+
+--- Hand-Calculated 5-Journey Batch (Start: Rs 200.00 = 20000 paise) ---
+Hand-calculated total: 1200 + 2000 + 3600 + 2250 + 1800 = 10850 paise (Rs 108.50)
+Program total        : 10850 paise (Rs 108.50)
+Remaining balance    : 9150 paise (Rs 91.50)
+
+Summary: 12/12 automated tests passed.

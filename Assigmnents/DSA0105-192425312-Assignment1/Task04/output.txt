@@ -1,0 +1,12 @@
+/tmp/DSA01-RegisterNumber-Assignment1/Task04/task04_implicit_conversions.cpp: In function ‘int main()’:
+/tmp/DSA01-RegisterNumber-Assignment1/Task04/task04_implicit_conversions.cpp:21:21: warning: comparison of integer expressions of different signedness: ‘int’ and ‘unsigned int’ [-Wsign-compare]
+   21 |     std::cout << (s < u ? "s < u" : "s >= u") << '\n';
+      |                   ~~^~~
+--- Given Program Output ---
+3 3.5
+C 68
+1 true
+s >= u
+
+--- Safe Alternative (Brace Init + static_cast) ---
+Exact division: 3.5, char: C, flag: true, signed cmp: s < u

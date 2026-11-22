@@ -1,0 +1,8 @@
+=== TASK 6: VEHICLE RENTAL FLEET DEMONSTRATION ===
+Car [Reg: TN-01-AB-1234, Rate: Rs 2500/day, Seats: 5, Rented: No]
+ElectricCar [Reg: TN-07-EV-9999, Rate: Rs 3500/day, Battery: 75kWh, Rented: No]
+ElectricBus [Reg: TN-22-EB-5555, Rate: Rs 8000/day, Capacity: 40 passengers, Rented: No]
+
+--- Renting and Returning with Late Charges ---
+Rental charge for Car (5 days + 2 late days): Rs 20000.00
+Rental charge for ElectricCar (3 days): Rs 11625.00

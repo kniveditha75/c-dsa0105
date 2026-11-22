@@ -1,0 +1,1 @@
+No interactive input required (executes given 3-trip array + 10 AM / 8 PM boundary trips).

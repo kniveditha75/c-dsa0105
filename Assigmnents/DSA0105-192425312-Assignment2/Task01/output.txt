@@ -1,0 +1,8 @@
+=== Q1: PREDICT THE OUTPUT SNIPPET ===
+1 12 13
+1 100
+16 13 6 
+
+=== Q1: COMPLETE THE CODE VERIFICATION ===
+after call by value    : 45000
+after call by reference: 40500

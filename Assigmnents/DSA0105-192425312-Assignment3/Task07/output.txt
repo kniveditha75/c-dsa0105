@@ -1,0 +1,4 @@
+=== Q7: AC CIRCUIT IMPEDANCE CALCULATOR ===
+Series RLC Impedance   : 100.00 + 30.00j | |Z| = 104.40 ohm
+Parallel Z1||Z2        : 50.00 + 50.00j | |Z| = 70.71 ohm
+Safe Zero-Division Guard: Division by zero AC impedance!

@@ -1,0 +1,9 @@
+=== Q3: PREDICT THE OUTPUT (LOGGER) ===
++A +B -B copyAc use -Ac +P -P end 
+
+=== Q3: DYNAMIC AUDITORIUM SEAT MAP (RAII) ===
+[Constructed 10x20 Auditorium]
+[Constructed 0x0 Auditorium]
+[Destroyed Auditorium | Final Booked Seats: 0]
+[Destroyed Auditorium | Final Booked Seats: 2]
+-A

@@ -1,0 +1,6 @@
+=== TASK 1: REPAIRED PAYROLL HIERARCHY ===
+Professor   | ID: 101 | Name: Dr. Smith | Pay: Rs 86000.00
+LabAsst     | ID: 201 | Name: Alice Brown | Pay: Rs 42600.00
+GuestFaculty| ID: 301 | Name: Bob Martin | Pay: Rs 48000.00
+----------------------------------------
+Total Monthly Payroll: Rs 176600.00

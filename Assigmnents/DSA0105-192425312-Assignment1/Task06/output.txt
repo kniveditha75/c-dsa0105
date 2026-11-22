@@ -1,0 +1,8 @@
+--- Expected Output Check (Given Trips) ---
+Fare Rs 10.00  balance Rs 90
+Fare Rs 36.00  balance Rs 54
+Denied (low balance)  balance Rs 54
+
+--- Boundary Check: 10 AM (hour=10) and 8 PM (hour=20) ---
+10:00 AM (Off-Peak) -> Peak=false | Fare Rs 30.00 | Balance Rs 120
+08:00 PM (Off-Peak) -> Peak=false | Fare Rs 30.00 | Balance Rs 90

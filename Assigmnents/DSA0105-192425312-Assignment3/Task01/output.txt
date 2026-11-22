@@ -1,0 +1,7 @@
+=== Q1: CONSTRUCTORS & DELEGATION ===
+[Warning] Negative copies (-3) clamped to 0 for 'Invalid Stock Book'
+Book: "Untitled" by Unknown | Copies: 0
+Book: "Clean Code" by Donated | Copies: 1
+Book: "The C++ Programming Language" by Bjarne | Copies: 5
+Book: "Invalid Stock Book" by Author X | Copies: 0
+Shelf array initialized with default constructor (2 slots).
